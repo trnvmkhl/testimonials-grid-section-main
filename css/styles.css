@@ -74,6 +74,7 @@ h3, p {
   font-size: 0.85rem;
   color: hsl(0, 0%, 100%);
   opacity: 70%;
+  line-height: 1.4;
 }
 
 /* background colors */
@@ -86,6 +87,7 @@ h3, p {
   background-color: hsl(217, 19%, 35%);
 }
 
+
 .jeanette p.name-text, .jeanette p.body-text, .kira p.name-text, .kira p.body-text {
   color: hsl(219, 29%, 14%);
 }
@@ -96,7 +98,7 @@ h3, p {
 }
 
 .jeanette p.footer-text, .kira p.footer-text {
-  color: hsl(219, 29%, 14%);
+  color: hsl(217, 19%, 35%);
   opacity: 70%;
 }
 
