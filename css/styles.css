@@ -17,6 +17,7 @@ h3, p {
 
 .card {
   border-radius: 10px;
+  box-shadow: 45px 50px 20px -40px #D4DADE;
 }
 
 .card-header {
